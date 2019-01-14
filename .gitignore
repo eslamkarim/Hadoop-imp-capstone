@@ -1,0 +1,8 @@
+
+*.xml
+CSVcleaner/code/build/built-jar.properties
+*.class
+*.jar
+*.TXT
+*.properties
+*.mf
